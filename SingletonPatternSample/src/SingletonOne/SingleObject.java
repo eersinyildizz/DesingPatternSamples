@@ -10,6 +10,7 @@ public class SingleObject {
 
     private static SingleObject _instance ;
     private int r;
+    
     private SingleObject(){
         r = new Random().nextInt(100000);
     }
