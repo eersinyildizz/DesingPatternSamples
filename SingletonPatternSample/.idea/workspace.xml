@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de556fd7-50b8-4515-859a-7084fe0d5313" name="Default" comment="" />
+    <list default="true" id="f8287502-caae-4264-b76f-8e90ef2801bc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,84 +13,27 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Stock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Order/Stock.java">
+      <file leaf-file-name="SingleObject.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SingletonOne/SingleObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="278">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Order/IOrder.java">
+      <file leaf-file-name="SingletonOneMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SingletonOne/SingletonOneMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="275">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyStock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Order/BuyStock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SellStock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Order/SellStock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Broker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Broker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#170#178#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommandPatternDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CommandPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -112,13 +55,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Stock.java" />
-        <option value="$PROJECT_DIR$/src/Order/IOrder.java" />
-        <option value="$PROJECT_DIR$/src/Order/Stock.java" />
-        <option value="$PROJECT_DIR$/src/Order/BuyStock.java" />
-        <option value="$PROJECT_DIR$/src/Order/SellStock.java" />
-        <option value="$PROJECT_DIR$/src/Broker.java" />
-        <option value="$PROJECT_DIR$/src/CommandPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/SingletonTwo/SingleObjectTwo.java" />
+        <option value="$PROJECT_DIR$/src/SingletonOne/SingletonOneMain.java" />
+        <option value="$PROJECT_DIR$/src/SingletonOne/SingleObject.java" />
       </list>
     </option>
   </component>
@@ -142,37 +81,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CommandPatternSample" />
+              <option name="myItemId" value="SingletonPatternSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CommandPatternSample" />
+              <option name="myItemId" value="SingletonPatternSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CommandPatternSample" />
+              <option name="myItemId" value="SingletonPatternSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CommandPatternSample" />
+              <option name="myItemId" value="SingletonPatternSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SingletonOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,10 +133,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandPatternDemo">
-    <configuration default="false" name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CommandPatternDemo" />
+  <component name="RunManager" selected="Application.SingletonOneMain">
+    <configuration default="false" name="SingletonOneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SingletonOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SingletonOne.SingletonOneMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -202,7 +150,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CommandPatternSample" />
+      <module name="SingletonPatternSample" />
       <envs />
       <method />
     </configuration>
@@ -358,7 +306,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CommandPatternSample" />
+      <module name="SingletonPatternSample" />
       <envs />
       <method />
     </configuration>
@@ -411,11 +359,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.CommandPatternDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SingletonOneMain" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.CommandPatternDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SingletonOneMain" />
       </list>
     </recent_temporary>
   </component>
@@ -424,11 +372,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de556fd7-50b8-4515-859a-7084fe0d5313" name="Default" comment="" />
-      <created>1496523693518</created>
+      <changelist id="f8287502-caae-4264-b76f-8e90ef2801bc" name="Default" comment="" />
+      <created>1496567301169</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1496523693518</updated>
+      <updated>1496567301169</updated>
     </task>
     <servers />
   </component>
@@ -478,180 +426,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand3/BuyStock.class">
+    <entry file="file://$PROJECT_DIR$/src/SingletonTwo/SingleObjectTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand3/CommandPatternDemo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#572#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand3/Order.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand3/SellStock.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand3/Stock.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#524#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand3/Broker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand2/Light.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand2/LightOffCommand.class">
+    <entry file="file://$PROJECT_DIR$/src/SingletonOne/SingletonOneMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="275">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand2/LightOnCommand.class">
+    <entry file="file://$PROJECT_DIR$/src/SingletonOne/SingleObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand2/RemoteControl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand2/Command.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ceng431/designPatternCommand/designPatternCommand/bin/designPatternCommand2/Client.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Order/IOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Order/Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="278">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Order/BuyStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Order/SellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Broker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#170#178#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
           </folding>
         </state>
       </provider>
