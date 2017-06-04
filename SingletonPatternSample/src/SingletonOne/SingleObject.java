@@ -9,9 +9,9 @@ public class SingleObject {
 
 
     private static SingleObject _instance ;
-
+    private int r;
     private SingleObject(){
-        String r = new Random().toString();
+        r = new Random().nextInt(10);
     }
 
     public static SingleObject getInstance(){
@@ -21,7 +21,7 @@ public class SingleObject {
     }
 
     public void message(){
-        System.out.println("singleton created. value  : "+_instance);
+        System.out.println("singleton created. value  : "+r);
     }
 
 }
